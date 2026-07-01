@@ -32,11 +32,11 @@ I hold a BFA in Design and an MFA in Photography from Concordia University, wher
 
 ## Selected artistic work
 
-- **[Pinchard's Island](https://adamsimms.xyz/pinchards-island)** — A collection of work investigating resettlement, displacement, and belonging in Newfoundland
-- **[Cloudberry](https://adamsimms.xyz/cloudberry)** — Solar-powered camera system on Pinchard's Island broadcasting landscape continuously, thousands of photographs across seasons and light
-- **[Cabin](https://adamsimms.xyz/cabin)** — Immersive installation merging Montreal studio space with live video stream from family cabin on Pinchard's Island
-- **[Driftwood](https://adamsimms.xyz/driftwood)** — Kinetic sculpture responding in real-time to Atlantic ocean buoy data via microelectronics
-- **[Mug Up](https://adamsimms.xyz/mug-up)** — Video and sound performance exploring ritual, resettlement, and cultural continuity
+- **[Pinchard's Island](https://adamsim.ms/pinchards-island)** — A collection of work investigating resettlement, displacement, and belonging in Newfoundland
+- **[Cloudberry](https://adamsim.ms/cloudberry)** — Solar-powered camera system on Pinchard's Island broadcasting landscape continuously, thousands of photographs across seasons and light
+- **[Cabin](https://adamsim.ms/cabin)** — Immersive installation merging Montreal studio space with live video stream from family cabin on Pinchard's Island
+- **[Driftwood](https://adamsim.ms/driftwood)** — Kinetic sculpture responding in real-time to Atlantic ocean buoy data via microelectronics
+- **[Mug Up](https://adamsim.ms/mug-up)** — Video and sound performance exploring ritual, resettlement, and cultural continuity
 
 
 ## Let's collaborate

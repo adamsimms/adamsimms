@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a technologist, designer, artist, and educator based in Montréal.
+I’m a technologist, designer, artist, and educator based in Montreal.
 
 I work at the intersection of technology, experience design, and culture—building systems, spaces, and projects that shape how people think, feel, and interact.
 
@@ -32,11 +32,11 @@ I hold a BFA in Design and an MFA in Photography from Concordia University, wher
 
 ## Selected artistic work
 
-- **[Pinchard's Island](https://adamsim.ms/pinchards-island)** — A collection of work investigating resettlement, displacement, and belonging in Newfoundland
-- **[Cloudberry](https://adamsim.ms/cloudberry)** — Solar-powered camera system on Pinchard's Island broadcasting landscape continuously, thousands of photographs across seasons and light
-- **[Cabin](https://adamsim.ms/cabin)** — Immersive installation merging Montreál studio space with live video stream from family cabin on Pinchard's Island
-- **[Driftwood](https://adamsim.ms/driftwood)** — Kinetic sculpture responding in real-time to Atlantic ocean buoy data via microelectronics
-- **[Mug Up](https://adamsim.ms/mug-up)** — Video and sound performance exploring ritual, resettlement, and cultural continuity
+- **[Pinchard's Island](https://adamsimms.xyz/pinchards-island)** — A collection of work investigating resettlement, displacement, and belonging in Newfoundland
+- **[Cloudberry](https://adamsimms.xyz/cloudberry)** — Solar-powered camera system on Pinchard's Island broadcasting landscape continuously, thousands of photographs across seasons and light
+- **[Cabin](https://adamsimms.xyz/cabin)** — Immersive installation merging Montreal studio space with live video stream from family cabin on Pinchard's Island
+- **[Driftwood](https://adamsimms.xyz/driftwood)** — Kinetic sculpture responding in real-time to Atlantic ocean buoy data via microelectronics
+- **[Mug Up](https://adamsimms.xyz/mug-up)** — Video and sound performance exploring ritual, resettlement, and cultural continuity
 
 
 ## Let's collaborate
@@ -47,6 +47,12 @@ I'm open to working on thoughtful, early-stage ideas with real-world impact:
 - 🎨 Cross-disciplinary collaborations blending technology, design, and artistic practice
 - 🗣️ Speaking, teaching, and knowledge-sharing on technology, design, and culture
 - 🌐 Open source contributions
+
+## Contact
+
+- Website: [adamsimms.xyz](https://adamsimms.xyz)
+- LinkedIn: [linkedin.com/in/adamsimms](https://www.linkedin.com/in/adamsimms)
+- Instagram: [@adamsimms](https://instagram.com/adamsimms)
 
 **Ask me about:** Product thinking, design systems, photography, thermal circuits, systems design, responsive installations, the politics of landscape, or the future of human-technology interaction.
 

@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me
 
 I’m a technologist, designer, artist, and educator based in Montreal.
 
@@ -16,7 +16,7 @@ I hold a BFA in Design and an MFA in Photography from Concordia University, wher
 - 📱 **Dictionary of Newfoundland English** — A local-first mobile app preserving dialect and culture
 - 🎨 **Lynne Cohen Catalogue Raisonné** — Digital infrastructure for an artist archive
 
-## Skills & perspective
+## Skills
 
 **Problem-solving:** Data-informed iteration, systems thinking, API-first architecture, composable design  
 **Technical:** Full-stack web development, product strategy, analytics, server-side tracking, martech  

@@ -1,59 +1,36 @@
-### About me
+Technologist, designer, artist, and educator.
 
-I’m a technologist, designer, artist, and educator based in Montreal.
+I make [art](https://art.adamsimms.xyz/), teach [photography](https://syllabi.adamsimms.xyz/), and build [software](https://github.com/adamsimms). I've worked at [Trello](https://trello.com/), [Atlassian](https://atlassian.com/), [Lightspeed](https://www.lightspeedhq.com/), and [Age of Union](https://ageofunion.com/). [Artist-in-Residence](https://www.concordia.ca/faculty/adam-simms.html) at [Concordia University](https://www.concordia.ca/). I cofounded [RECESS](https://www.recessthermalstation.com/).
 
-I work at the intersection of technology, experience design, and culture—building systems, spaces, and projects that shape how people think, feel, and interact.
+## Working on
 
-I’m the co-founder of RECESS, a social wellness space exploring thermal therapy, design, and human connection. My role spans operations, infrastructure, and experience design—translating ideas into tangible, lived experiences.
+- **[Rover](https://github.com/adamsimms/rover).** An off-grid field rover for Pinchard's Island. It carries a camera, and a language model writes field notes from incomplete speech.
+- **[Glowberry](https://github.com/adamsimms/glowberry).** A large bakeapple sculpture for Newfoundland.
+- **[Dreamberry](https://art.adamsimms.xyz/dreamberry).** The Cloudberry camera died on the island in 2018. Dreamberry keeps looking: each hour it reads the live weather and dreams the window the camera used to hold.
+- **Lynne Cohen Catalogue.** A website and archive of the artist's work.
+- **[RECESS](https://www.recessthermalstation.com/).** Web infrastructure for the thermal station.
 
-My background includes product and engineering work at Lightspeed, Trello, and Atlassian, with a focus on composable systems, analytics, and scalable product thinking.
+## Selected (art)work
 
-I hold a BFA in Design and an MFA in Photography from Concordia University, where I’ve taught courses on image culture, digital space, and technology’s role in visual practice.
-
-## What I'm working on
-
-- 🏢 **RECESS** — Brand, operations, experience design, technology infrastructure, and growth
-- 📱 **Dictionary of Newfoundland English** — A local-first mobile app preserving dialect and culture
-- 🎨 **Lynne Cohen Catalogue Raisonné** — Digital infrastructure for an artist archive
-
-## Skills
-
-**Problem-solving:** Data-informed iteration, systems thinking, API-first architecture, composable design  
-**Technical:** Full-stack web development, product strategy, analytics, server-side tracking, martech  
-**Creative:** Visual design, UX/experience design, media art, photography, microelectronics
-
-## Exploring
-- 🤖 Creative applications of AI, machine learning, and generative systems
-- 💻 Composable, API-first systems and developer tools
-- 🧠 UX for wellness, screen theory, design systems at scale
-- 📊 Advanced analytics for early-stage ventures
-- 🌱 Decentralization, networked systems, and emerging cultural and technology patterns
-- 🎨 The intersection of technology, photography, cultural practice, and place-based art
-
-## Selected artistic work
-
-- **[Pinchard's Island](https://adamsim.ms/pinchards-island)** — A collection of work investigating resettlement, displacement, and belonging in Newfoundland
-- **[Cloudberry](https://adamsim.ms/cloudberry)** — Solar-powered camera system on Pinchard's Island broadcasting landscape continuously, thousands of photographs across seasons and light
-- **[Cabin](https://adamsim.ms/cabin)** — Immersive installation merging Montreal studio space with live video stream from family cabin on Pinchard's Island
-- **[Driftwood](https://adamsim.ms/driftwood)** — Kinetic sculpture responding in real-time to Atlantic ocean buoy data via microelectronics
-- **[Mug Up](https://adamsim.ms/mug-up)** — Video and sound performance exploring ritual, resettlement, and cultural continuity
-
+- **[Pinchard's Island](https://adamsim.ms/pinchards-island).** Work about resettlement, displacement, and belonging in Newfoundland.
+- **[Cloudberry](https://pinchards.is).** A solar-powered camera on Pinchard's Island that photographed the landscape across seasons.
+- **[Cabin](https://adamsim.ms/cabin).** A Montréal studio with a live video stream from the family cabin on Pinchard's Island.
+- **[Driftwood](https://github.com/adamsimms/driftwood).** A kinetic sculpture that moves with live Atlantic Ocean buoy data.
+- **[Adrift](https://www.pinchards.is/adrift/).** A saltbox house on the open Atlantic, influced by live Newfoundland weather.
+- **[Light House](https://adamsim.ms/light-house).** An illuminated house sculpture on the Newfoundland shore.
+- **[Mug Up](https://adamsim.ms/mug-up).** A video and sound performance with my grandmother Doris, about ritual and resettlement.
 
 ## Let's collaborate
 
-I'm open to working on thoughtful, early-stage ideas with real-world impact:
-- 🚀 Design leadership and product strategy for ventures at the intersection of tech/culture/wellness
-- 💻 Freelance technical consulting and web development  
-- 🎨 Cross-disciplinary collaborations blending technology, design, and artistic practice
-- 🗣️ Speaking, teaching, and knowledge-sharing on technology, design, and culture
-- 🌐 Open source contributions
+I'm open to:
 
-## Contact
+- Early-stage software companies. 
+- Open source projects.
+- Art exhibition design, print publication design, and websites.
+- Teaching, speaking, and advising, in a classroom, on a stage, or with a team.
 
-- Website: [adamsimms.xyz](https://adamsimms.xyz)
-- LinkedIn: [linkedin.com/in/adamsimms](https://www.linkedin.com/in/adamsimms)
-- Instagram: [@adamsimms](https://instagram.com/adamsimms)
+[hello@adamsimms.xyz](mailto:hello@adamsimms.xyz) · [Meet](https://cal.com/adam-simms-ivi9mt/1-hour-meeting)
 
-**Ask me about:** Product thinking, design systems, photography, thermal circuits, systems design, responsive installations, the politics of landscape, or the future of human-technology interaction.
+## Elsewhere
 
-*Also: always thinking about chocolate chip cookies.*
+[adamsimms.xyz](https://adamsimms.xyz/) · [art](https://art.adamsimms.xyz/) · [syllabi](https://syllabi.adamsimms.xyz/)

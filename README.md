@@ -1,6 +1,4 @@
-Technologist, designer, artist, and educator.
-
-I make [art](https://art.adamsimms.xyz/), teach [photography](https://syllabi.adamsimms.xyz/), and build [software](https://github.com/adamsimms). I've worked at [Trello](https://trello.com/), [Atlassian](https://atlassian.com/), [Lightspeed](https://www.lightspeedhq.com/), and [Age of Union](https://ageofunion.com/). [Artist-in-Residence](https://www.concordia.ca/faculty/adam-simms.html) at [Concordia University](https://www.concordia.ca/). I cofounded [RECESS](https://www.recessthermalstation.com/).
+## I make [art](https://art.adamsimms.xyz/), teach [photography](https://syllabi.adamsimms.xyz/), and build [software](https://github.com/adamsimms). I've worked at [Trello](https://trello.com/), [Atlassian](https://atlassian.com/), [Lightspeed](https://www.lightspeedhq.com/), and [Age of Union](https://ageofunion.com/). [Artist-in-Residence](https://www.concordia.ca/faculty/adam-simms.html) at [Concordia University](https://www.concordia.ca/). I cofounded [RECESS](https://www.recessthermalstation.com/).
 
 ## Working on
 
